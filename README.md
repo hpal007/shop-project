@@ -2,14 +2,17 @@
 used react- django 
 
 deployed @ https://ecommerce-django-react-harish.herokuapp.com/
-**note**  images will not be displayed on heroku as i am using free account.
-**
-Note**
+Note:  images will not be displayed on heroku as i am using free account.
+
+
+
+Features:
+
 Full featured shopping cart
 
-User/Admin login /register
+User/Admin  -login /register
 
-Admin product managemen
+Admin product management
 
 
 Download & Setup Instructions
