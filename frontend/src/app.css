@@ -1,0 +1,8 @@
+.images {
+  padding: 0.25rem;
+  background-color: #fcfcfc;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  max-width: 150px;
+  height: 150px;
+}
