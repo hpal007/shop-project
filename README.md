@@ -1,5 +1,5 @@
 # shop-project
-used react- django 
+used react- django  python
 
 deployed @ https://ecommerce-django-react-harish.herokuapp.com/
 Note:  images will not be displayed on heroku as i am using free account.
